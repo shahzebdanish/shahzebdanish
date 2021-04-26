@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahzebdanish
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I like to code
+- 🌱 I’m currently learning & teaching web development
 - 📫 You can reach me on shahzeb.danish@gmail.com
 
 <!---
